@@ -314,27 +314,13 @@ print("Misclassified Emails:\n", misclassified)
 print("Summary: Logistic Regression performed better in terms of [metrics]. Random Forest had higher interpretability due to feature importance.")
 
 ```
-
+![](https://github.com/Arif-miad/Email-Spam-Classification-Project/blob/main/e1.PNG)
 ---
 
 ## Performance Metrics and Equations
 ### Key Metrics:
-1. **Accuracy**:  
-   \[
-   \text{Accuracy} = \frac{\text{TP} + \text{TN}}{\text{Total Observations}}
-   \]
-2. **Precision**:  
-   \[
-   \text{Precision} = \frac{\text{TP}}{\text{TP} + \text{FP}}
-   \]
-3. **Recall**:  
-   \[
-   \text{Recall} = \frac{\text{TP}}{\text{TP} + \text{FN}}
-   \]
-4. **F1 Score**:  
-   \[
-   F1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}
-   \]
+1. **Accuracy**:
+![output](https://github.com/Arif-miad/Email-Spam-Classification-Project/blob/main/eial.PNG)
 
 ---
 
